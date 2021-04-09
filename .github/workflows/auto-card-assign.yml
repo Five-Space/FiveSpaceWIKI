@@ -1,3 +1,5 @@
+- name: Auto card assign
+  uses: 1natsu172/github-action-auto-card-assign@v1
 name: "Auto card assign"
 on:
   project_card:

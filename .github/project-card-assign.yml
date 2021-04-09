@@ -1,6 +1,6 @@
-kanban1: # Project name
+music: # Project name
   To do: # Column name
-    - "memberName1" # Login name(assignee name)
+    - "InsaneYoungStunner" # Login name(assignee name)
   In progress:
     - "memberName2"
   Review in progress:
